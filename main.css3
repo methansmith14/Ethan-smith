@@ -1,0 +1,10 @@
+. wrapper
+{width:
+;100%;
+body{background-color:gray;
+}
+<style>
+body{}
+
+
+</style>

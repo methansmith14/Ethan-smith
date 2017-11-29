@@ -1,0 +1,30 @@
+  <html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+   <ul>
+  <a href="index.html">Home</a></li>
+  <a href="index.html3">location</a></li>
+  <a href="index.html4">menu</a></li>
+  <a href="index.html5">comments</a> </li>
+  </ul>
+  </body>
+<body>
+
+
+<form id="form1" name="form1" method="post" action="">
+<label>
+<textarea name="input" id="input" cols="45" rows="5"></textarea>
+</label>
+</form>
+<form id="form2" name="form2" method="post" action="">
+<label>
+<input type="submit" name="export" id="export" value="Submit" />
+</label>
+</form>
+</body>
+</html>
+<a href="index.html">Home</a></li>
+
+

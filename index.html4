@@ -1,0 +1,82 @@
+    <!DOCTYPE html> 
+<html> 
+   <ul>
+  <a href="index.html">Home</a></li>
+  <a href="index.html3">location</a></li>
+  <a href="index.html4">menu</a></li>
+  <a href="index.html5">comments</a> </li>
+  </ul>
+  </body>
+<head>
+
+<title> The Golden specials;</title>
+        <style> 
+              body
+              { 
+                font-family: sans-serif; 
+                  background-color:; 
+				  
+				  height:15px;
+				  
+		}
+		table 
+		   {
+		       width:50%;
+			   border-collapse: collapse;
+			   background-color:green;
+		   }
+		   
+		   td
+		   {
+		   text-align:center;
+		   }
+		</style>
+</head> 
+    <style> 
+body
+{
+background-color:yellow;
+font-size:34px;
+
+
+}
+</style>
+<h1> The Golden Dragon Specials</h1>
+
+<table border="1">
+  <tr>
+       <th> With Rice and Soup Seafood Bar   </th>
+	  
+	   
+	   
+	   <th> $18.45  </th>
+	   <th>  </th>
+	   
+  </tr>
+  <tr>
+       <td> Chicken Chow Mein 
+	   
+	   </td> <th> $4.45
+	   </th>
+	
+
+  </tr>
+  <tr>	   <th> Shrimp with Lobster Sauce</th> <th>	$5.50 </th> <td>
+  </tr> </td>
+    <tr> <th>Roast Pork Lo Mein	</th> <th>$5.25</th>  </tr>
+ <tr> <th>Sweet and Sour Pork or Chicken</th> <th> $5.25</th> </tr> 
+ <tr> <th>Barbecued Spare Ribs</th><th>$6.99</th>  </tr> 
+ <tr> <th> Shrimp with Broccoli </th><th> $5.50 </th> </tr>
+ <tr> <th> Beef Mushrooms with Oyster Sauce </th><th> $5.25</th>  </tr>
+ <tr> <th> Vegetable Delight </th> <th>$5.25</th> </tr>
+<tr> <th> Broccoli with Garlic Sauce  </th> <th>$4.75 </th>   </tr>
+<tr> <th>Hot and Spicy Shredded Beef  </th> <th> $5.25 </th> </tr>
+<tr> <th> General Tso's Chicken	 </th> <th> $5.50 </th> </tr>
+<tr> <th> Sesame Chicken  </th> <th> $5.50 </th> </tr>
+<tr> <th> Chicken with Garlic Sauce	 </th> <th> $5.25 </th>  </tr>
+</table>
+
+</body>
+
+</html>
+<a href="index.html">Home</a></li>

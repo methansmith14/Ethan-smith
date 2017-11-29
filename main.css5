@@ -1,0 +1,36 @@
+ p {
+    margin: 10px;
+}
+
+#phoneLabel {
+    border: 1px solid black;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    position: relative;
+    width: 400px;
+}
+#phone {
+    padding: 4px;
+    width: 200px;
+}
+#phone + span {
+    background-color: gray;
+    border: 3px solid green;
+    display: block;
+    left: -999px;
+    opacity: 0;
+    padding: 7px 0px;
+    position: absolute;
+    text-align: center;
+    top: 40px;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity 1s ease-out;
+    transition: opacity 1s ease-out;
+    width: 200px;
+}
+#phone:focus + span {
+    left: 140px;
+    opacity: 1;
+}
+ 
